@@ -36,4 +36,4 @@ My page developed:
 
 - https://92castro.github.io/work-day-scheduler-/
 
-![screenshot of my project](assets/planner.PNG)
+![screenshot of my project](/Assets/planner.PNG)
