@@ -36,4 +36,4 @@ My page developed:
 
 - https://92castro.github.io/work-day-scheduler-/
 
-![screenshot of my project](assets/05-third-party-apis-homework-demo.gif)
+![screenshot of my project](assets/planner.PNG)
